@@ -58,17 +58,3 @@ h1, h2, h3, p {
     justify-content: center;
     align-items: center;
 }
-#contact{
-    margin: 100px 80px;
-    display: flex;
-    align-items: center;
-}
-#contact h2{
-    font-weight: 700;
-    size: 40px;
-    line-height: 42px;
-    max-width: 500px;
-}
-.btn-contact{
-    margin-left: auto;
-}

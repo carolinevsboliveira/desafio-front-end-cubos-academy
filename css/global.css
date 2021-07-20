@@ -56,7 +56,7 @@ p, a{
     padding: 150px 80px 30px 80px;
     display: flex;
 }
-#about .col{
+.col{
     flex: 1;
 }
 #about img{
@@ -70,6 +70,20 @@ p, a{
     color: var(--gray-dark-blue);
     padding: 17px 28px;
     font-weight: 500;
+}
+#contact{
+    margin: 100px 80px;
+    display: flex;
+    align-items: center;
+}
+#contact h2{
+    font-weight: 700;
+    size: 40px;
+    line-height: 42px;
+    max-width: 500px;
+}
+.btn-contact{
+    margin-left: auto;
 }
 #footer{
     background-color: #33323D;
